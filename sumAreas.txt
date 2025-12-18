@@ -1,0 +1,7 @@
+--- Shapes Report ---
+1. Circle Area: 706.86
+2. Cube Area: 18481.50
+3. Circle Area: 1995.04
+---------------------
+Total Area Sum = 21183.40
+---------------------
